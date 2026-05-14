@@ -1,18 +1,16 @@
-# MARC Quantira Premium V2 Website
+# MARC Quantira Premium V3 Website
 
-## Files
+## Upload to GitHub
+Replace your existing files with:
 - index.html
 - style.css
 
-## Deployment
-Upload these files to your GitHub repository and Vercel will automatically redeploy.
+Vercel will automatically redeploy.
 
-## Domain
-Use:
-- marcquantira.com
-- www.marcquantira.com
+## Important note
+Director 3 name was not provided, so it is shown as "Director". Update the name in index.html when finalized.
 
-## Contact Details
+## Contact
 Phone: +91-9433362018
 Email: marcquantira@gmail.com
 Website: www.marcquantira.com
