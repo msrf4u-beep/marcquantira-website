@@ -1,4 +1,4 @@
-# MARC Quantira Premium V3 Website
+# MARC Quantira Premium V4 Website
 
 ## Upload to GitHub
 Replace your existing files with:
@@ -7,8 +7,14 @@ Replace your existing files with:
 
 Vercel will automatically redeploy.
 
-## Important note
-Director 3 name was not provided, so it is shown as "Director". Update the name in index.html when finalized.
+## Included Updates
+- Director 3 updated to Shaba Anjum Raza
+- Services grouped from uploaded professional work list
+- Documents Required section added
+- Client process section added
+- Service packages added
+- Google Maps office location included
+- Premium black and gold MARC branding
 
 ## Contact
 Phone: +91-9433362018
